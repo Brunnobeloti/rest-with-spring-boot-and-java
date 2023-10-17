@@ -1,4 +1,4 @@
-package br.com.beloti.restwithspringbootandjava;
+package br.com.beloti;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
